@@ -1,0 +1,10 @@
+-La implementación basada en el patrón Screenplay favorece una clara separación de responsabilidades, lo que mejora la mantenibilidad, legibilidad y extensibilidad del código de pruebas.
+
+-La combinación de Screenplay + Gradle ofrece una solución robusta y escalable para proyectos de testing, especialmente en entornos donde se requiere integración continua, ejecución por etapas o pruebas basadas en datos.
+
+-Se automatizo el flujo end-to-end (E2E) del proceso de compra, validando todos los requisitos funcionales establecidos.
+
+-Serenity BDD proporciona reportes detallados que permiten visualizar el comportamiento de cada paso de las pruebas, facilitando la trazabilidad y análisis de resultados.
+
+-Las pruebas automatizadas pueden ejecutarse rápidamente y repetirse múltiples veces sin intervención manual, lo que reduce tiempos en regresiones y validaciones continuas.
+
